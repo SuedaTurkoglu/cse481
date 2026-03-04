@@ -1,0 +1,7 @@
+Asset,Timeframe,Entry_Rule,Exit_Rule,Total_PnL_USD,Win_Rate,Completed_Trades
+BTCUSDT,1h,IchimokuEntry,CustomExit/SL,0.0,0.0,0
+BTCUSDT,4h,IchimokuEntry,CustomExit/SL,3116.75,53.8462,247
+BTCUSDT,1d,IchimokuEntry,CustomExit/SL,0.0,0.0,0
+ETHUSDT,1h,IchimokuEntry,CustomExit/SL,0.0,0.0,0
+ETHUSDT,4h,IchimokuEntry,CustomExit/SL,1329.77,47.6987,239
+ETHUSDT,1d,IchimokuEntry,CustomExit/SL,0.0,0.0,0

@@ -1,0 +1,3 @@
+Asset,Timeframe,Entry_Rule,Exit_Rule,Strategy_Type,Total_PnL_USD,Win_Rate,Completed_Trades
+BTCUSDT,4h,RSI_25,ST_BUY,Grid (C1),1593.53,100.0,2
+ETHUSDT,4h,RSI_25,BB_B_0.40,Grid (C1),1143.07,100.0,2

@@ -1,0 +1,22 @@
+======================================================================
+TRADING BOT LOG FILE
+======================================================================
+
+[2025-12-02 01:29:39] Bought BTCUSDT, Date: 2025-11-04 19:00:00, Price: 100542.64, Cash: $0.00, Position: 0.09946, Strategy: GridSearchStrategy, Trigger: RSI_25, Indicators: RSI=22.58, BB_Lower=101929.61, KAMA=105514.97, ST_DIR=-1
+[2025-12-02 01:29:39] Sold BTCUSDT, Date: 2025-11-10 03:00:00, Price: 106027.97, New Balance: $10545.57, PnL: $545.57 (5.46%), Strategy: GridSearchStrategy, Trigger: ST_BUY, Indicators: RSI=65.11, BB_Lower=99756.16, KAMA=103642.57, ST_DIR=1
+[2025-12-02 01:29:39] Bought BTCUSDT, Date: 2025-11-21 07:00:00, Price: 84049.39, Cash: $0.00, Position: 0.12547, Strategy: GridSearchStrategy, Trigger: RSI_25, Indicators: RSI=24.54, BB_Lower=85155.74, KAMA=90331.28, ST_DIR=-1
+[2025-12-02 01:29:39] Sold BTCUSDT, Date: 2025-11-26 23:00:00, Price: 90484.02, New Balance: $11352.92, PnL: $807.35 (7.66%), Strategy: GridSearchStrategy, Trigger: ST_BUY, Indicators: RSI=65.16, BB_Lower=85490.10, KAMA=87594.63, ST_DIR=1
+[2025-12-02 01:29:39] Bought BTCUSDT, Date: 2025-12-01 15:00:00, Price: 84677.87, Cash: $0.00, Position: 0.13407, Strategy: GridSearchStrategy, Trigger: RSI_25, Indicators: RSI=23.91, BB_Lower=85685.44, KAMA=87403.15, ST_DIR=-1
+[2025-12-02 01:29:39] Backtest sonu: Kalan pozisyon satıldı. Bakiye: $11593.53
+[2025-12-02 01:29:39] Simulation complete
+----------------------------------------------------------------------
+
+[2025-12-02 01:29:41] Bought ETHUSDT, Date: 2025-10-30 19:00:00, Price: 3686.93, Cash: $0.00, Position: 2.71228, Strategy: GridSearchStrategy, Trigger: RSI_25, Indicators: RSI=23.98, BB_Lower=3736.90, KAMA=3876.20, ST_DIR=-1
+[2025-12-02 01:29:41] Sold ETHUSDT, Date: 2025-10-31 03:00:00, Price: 3829.16, New Balance: $10385.77, PnL: $385.77 (3.86%), Strategy: GridSearchStrategy, Trigger: BB_B_0.40, Indicators: RSI=40.34, BB_Lower=3713.48, KAMA=3866.34, ST_DIR=-1
+[2025-12-02 01:29:41] Bought ETHUSDT, Date: 2025-11-04 19:00:00, Price: 3230.94, Cash: $0.00, Position: 3.21447, Strategy: GridSearchStrategy, Trigger: RSI_25, Indicators: RSI=20.23, BB_Lower=3344.81, KAMA=3539.71, ST_DIR=-1
+[2025-12-02 01:29:41] Sold ETHUSDT, Date: 2025-11-05 15:00:00, Price: 3398.36, New Balance: $10923.94, PnL: $538.17 (5.18%), Strategy: GridSearchStrategy, Trigger: BB_B_0.40, Indicators: RSI=36.33, BB_Lower=3151.76, KAMA=3447.77, ST_DIR=-1
+[2025-12-02 01:29:41] Bought ETHUSDT, Date: 2025-12-01 15:00:00, Price: 2745.72, Cash: $0.00, Position: 3.97853, Strategy: GridSearchStrategy, Trigger: RSI_25, Indicators: RSI=24.33, BB_Lower=2799.28, KAMA=2885.37, ST_DIR=-1
+[2025-12-02 01:29:41] Backtest sonu: Kalan pozisyon satıldı. Bakiye: $11143.07
+[2025-12-02 01:29:41] Simulation complete
+----------------------------------------------------------------------
+

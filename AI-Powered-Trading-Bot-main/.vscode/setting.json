@@ -1,0 +1,6 @@
+{
+    "liveServer.settings.ignoreFiles": [
+        "**/trade_log.txt",
+        "**/*.txt"
+    ]
+}

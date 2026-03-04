@@ -1,0 +1,17 @@
+======================================================================
+TRADING BOT LOG FILE
+======================================================================
+
+[2025-10-07 22:36:18] Bought BTCUSDT, Balance: $10000.00, Strategy: RSIStrategy
+[2025-10-07 22:36:19] Sold BTCUSDT, Balance: $10010.16, Strategy: RSIStrategy
+[2025-10-07 22:36:19] Bought BTCUSDT, Balance: $10010.16, Strategy: ADXStrategy
+[2025-10-07 22:36:21] Sold BTCUSDT, Balance: $10008.02, Strategy: DefaultStrategy
+[2025-10-07 22:36:21] Simulation complete
+----------------------------------------------------------------------
+
+[2025-10-07 22:58:55] Bought BTCUSDT, Balance: $10000.00, Strategy: MACDStrategy
+[2025-10-07 22:58:57] Sold BTCUSDT, Balance: $10032.62, Strategy: RSIStrategy
+[2025-10-07 22:58:57] Bought BTCUSDT, Balance: $10032.62, Strategy: DefaultStrategy
+[2025-10-07 22:58:58] Simulation complete
+----------------------------------------------------------------------
+

@@ -1,0 +1,19 @@
+======================================================================
+TRADING BOT LOG FILE
+======================================================================
+
+[2025-11-26 15:31:07] Bought BTCUSDT, Price: 86806.65, Cash: $0.00, Position: 0.11519854757671216, Strategy: MACDStrategy
+[2025-11-26 15:31:07] Sold BTCUSDT, Price: 86758.84, New Balance: $9994.49, Strategy: MACDStrategy
+[2025-11-26 15:31:09] Simulation complete
+----------------------------------------------------------------------
+
+[2025-11-26 15:45:26] Bought BTCUSDT, Price: 86658.52, Cash: $0.00, Position: 0.11539546255809584, Strategy: RSIStrategy
+[2025-11-26 15:50:36] Simulation sonu: Kalan pozisyon satýldý. Bakiye: $9996.62
+[2025-11-26 15:50:36] Simulation complete
+----------------------------------------------------------------------
+
+[2025-11-26 16:04:03] Bought BTCUSDT, Price: 86633.42, Cash: $0.00, Position: 0.11542889568482925, Strategy: RSIStrategy
+[2025-11-26 16:09:04] Simulation sonu: Kalan pozisyon satýldý. Bakiye: $9999.14
+[2025-11-26 16:09:04] Simulation complete
+----------------------------------------------------------------------
+

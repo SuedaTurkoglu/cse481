@@ -1,0 +1,50 @@
+======================================================================
+TRADING BOT LOG FILE
+======================================================================
+
+[2025-11-29 21:00:37] Bought BTCUSDT, Date: 2025-10-05 12:00:00, Price: 123020.50, Cash: $0.00, Position: 0.08129, Strategy: GridSearchStrategy, Trigger: KAMA_ST, Indicators: RSI=49.72, BB_Lower=120339.50, KAMA=124239.15, ST_DIR=-1
+[2025-11-29 21:00:37] Sold BTCUSDT, Date: 2025-10-05 13:00:00, Price: 123028.01, New Balance: $10000.61, PnL: $0.61 (0.01%), Strategy: GridSearchStrategy, Trigger: RSI_40, Indicators: RSI=49.79, BB_Lower=120431.27, KAMA=124209.41, ST_DIR=-1
+[2025-11-29 21:00:37] Bought BTCUSDT, Date: 2025-10-05 14:00:00, Price: 123464.64, Cash: $0.00, Position: 0.08100, Strategy: GridSearchStrategy, Trigger: KAMA_ST, Indicators: RSI=53.91, BB_Lower=120575.56, KAMA=124186.50, ST_DIR=-1
+[2025-11-29 21:00:37] Sold BTCUSDT, Date: 2025-10-06 02:00:00, Price: 123482.31, New Balance: $10002.04, PnL: $1.43 (0.01%), Strategy: GridSearchStrategy, Trigger: RSI_40, Indicators: RSI=55.69, BB_Lower=121770.84, KAMA=123376.17, ST_DIR=-1
+[2025-11-29 21:00:37] Bought BTCUSDT, Date: 2025-10-06 03:00:00, Price: 123347.29, Cash: $0.00, Position: 0.08109, Strategy: GridSearchStrategy, Trigger: KAMA_ST, Indicators: RSI=53.81, BB_Lower=121863.89, KAMA=123375.57, ST_DIR=-1
+[2025-11-29 21:00:37] Sold BTCUSDT, Date: 2025-10-06 04:00:00, Price: 124035.32, New Balance: $10057.83, PnL: $55.79 (0.56%), Strategy: GridSearchStrategy, Trigger: RSI_40, Indicators: RSI=61.03, BB_Lower=121995.47, KAMA=123445.21, ST_DIR=-1
+[2025-11-29 21:00:37] Bought BTCUSDT, Date: 2025-10-06 10:00:00, Price: 123390.47, Cash: $0.00, Position: 0.08151, Strategy: GridSearchStrategy, Trigger: KAMA_ST, Indicators: RSI=50.58, BB_Lower=122401.70, KAMA=123571.64, ST_DIR=-1
+[2025-11-29 21:00:37] Sold BTCUSDT, Date: 2025-10-06 11:00:00, Price: 123846.55, New Balance: $10095.01, PnL: $37.18 (0.37%), Strategy: GridSearchStrategy, Trigger: RSI_40, Indicators: RSI=55.78, BB_Lower=122413.78, KAMA=123581.01, ST_DIR=-1
+[2025-11-29 21:00:37] Bought BTCUSDT, Date: 2025-10-07 17:00:00, Price: 122725.36, Cash: $0.00, Position: 0.08226, Strategy: GridSearchStrategy, Trigger: KAMA_ST, Indicators: RSI=35.27, BB_Lower=123157.92, KAMA=124149.78, ST_DIR=-1
+[2025-11-29 21:00:37] Sold BTCUSDT, Date: 2025-10-08 13:00:00, Price: 122934.60, New Balance: $10112.22, PnL: $17.21 (0.17%), Strategy: GridSearchStrategy, Trigger: RSI_40, Indicators: RSI=54.71, BB_Lower=120863.67, KAMA=122284.57, ST_DIR=-1
+[2025-11-29 21:00:37] Bought BTCUSDT, Date: 2025-10-08 17:00:00, Price: 122320.00, Cash: $0.00, Position: 0.08267, Strategy: GridSearchStrategy, Trigger: KAMA_ST, Indicators: RSI=48.09, BB_Lower=121089.01, KAMA=122341.57, ST_DIR=-1
+[2025-11-29 21:00:37] Sold BTCUSDT, Date: 2025-10-08 19:00:00, Price: 123051.03, New Balance: $10172.65, PnL: $60.43 (0.60%), Strategy: GridSearchStrategy, Trigger: RSI_40, Indicators: RSI=55.83, BB_Lower=121101.04, KAMA=122400.49, ST_DIR=-1
+[2025-11-29 21:00:37] Bought BTCUSDT, Date: 2025-10-09 11:00:00, Price: 121261.62, Cash: $0.00, Position: 0.08389, Strategy: GridSearchStrategy, Trigger: KAMA_ST, Indicators: RSI=37.03, BB_Lower=121169.18, KAMA=122214.71, ST_DIR=-1
+[2025-11-29 21:00:37] Sold BTCUSDT, Date: 2025-10-09 12:00:00, Price: 121813.04, New Balance: $10218.91, PnL: $46.26 (0.45%), Strategy: GridSearchStrategy, Trigger: RSI_40, Indicators: RSI=43.92, BB_Lower=121086.57, KAMA=122175.90, ST_DIR=-1
+[2025-11-29 21:00:37] Bought BTCUSDT, Date: 2025-10-09 13:00:00, Price: 122170.27, Cash: $0.00, Position: 0.08364, Strategy: GridSearchStrategy, Trigger: KAMA_ST, Indicators: RSI=47.89, BB_Lower=121072.30, KAMA=122175.72, ST_DIR=-1
+[2025-11-29 21:00:37] Sold BTCUSDT, Date: 2025-10-09 14:00:00, Price: 122737.57, New Balance: $10266.37, PnL: $47.45 (0.46%), Strategy: GridSearchStrategy, Trigger: RSI_40, Indicators: RSI=53.53, BB_Lower=121108.33, KAMA=122180.73, ST_DIR=-1
+[2025-11-29 21:00:37] Bought BTCUSDT, Date: 2025-10-09 18:00:00, Price: 121147.14, Cash: $0.00, Position: 0.08474, Strategy: GridSearchStrategy, Trigger: KAMA_ST, Indicators: RSI=40.78, BB_Lower=120878.77, KAMA=122320.88, ST_DIR=-1
+[2025-11-29 21:00:37] Sold BTCUSDT, Date: 2025-10-10 00:00:00, Price: 121461.02, New Balance: $10292.96, PnL: $26.60 (0.26%), Strategy: GridSearchStrategy, Trigger: RSI_40, Indicators: RSI=47.50, BB_Lower=120027.32, KAMA=122052.44, ST_DIR=-1
+[2025-11-29 21:00:37] Bought BTCUSDT, Date: 2025-10-10 01:00:00, Price: 121686.19, Cash: $0.00, Position: 0.08459, Strategy: GridSearchStrategy, Trigger: KAMA_ST, Indicators: RSI=49.23, BB_Lower=120030.80, KAMA=122030.44, ST_DIR=-1
+[2025-11-29 21:00:37] Sold BTCUSDT, Date: 2025-10-10 03:00:00, Price: 121745.27, New Balance: $10297.96, PnL: $5.00 (0.05%), Strategy: GridSearchStrategy, Trigger: RSI_40, Indicators: RSI=49.75, BB_Lower=120018.01, KAMA=122017.35, ST_DIR=-1
+[2025-11-29 21:00:37] Bought BTCUSDT, Date: 2025-10-10 04:00:00, Price: 121623.97, Cash: $0.00, Position: 0.08467, Strategy: GridSearchStrategy, Trigger: KAMA_ST, Indicators: RSI=48.69, BB_Lower=120010.01, KAMA=122010.17, ST_DIR=-1
+[2025-11-29 21:00:37] Sold BTCUSDT, Date: 2025-10-10 11:00:00, Price: 121631.54, New Balance: $10298.60, PnL: $0.64 (0.01%), Strategy: GridSearchStrategy, Trigger: RSI_40, Indicators: RSI=50.62, BB_Lower=120223.22, KAMA=121818.74, ST_DIR=-1
+[2025-11-29 21:00:37] Bought BTCUSDT, Date: 2025-10-10 12:00:00, Price: 121314.73, Cash: $0.00, Position: 0.08489, Strategy: GridSearchStrategy, Trigger: KAMA_ST, Indicators: RSI=47.67, BB_Lower=120316.45, KAMA=121809.74, ST_DIR=-1
+[2025-11-29 21:00:37] Sold BTCUSDT, Date: 2025-10-10 13:00:00, Price: 121496.33, New Balance: $10314.02, PnL: $15.42 (0.15%), Strategy: GridSearchStrategy, Trigger: RSI_40, Indicators: RSI=49.49, BB_Lower=120317.66, KAMA=121805.77, ST_DIR=-1
+[2025-11-29 21:00:37] Bought BTCUSDT, Date: 2025-10-10 14:00:00, Price: 121554.55, Cash: $0.00, Position: 0.08485, Strategy: GridSearchStrategy, Trigger: KAMA_ST, Indicators: RSI=50.09, BB_Lower=120327.09, KAMA=121804.24, ST_DIR=-1
+[2025-11-29 21:00:37] Sold BTCUSDT, Date: 2025-10-10 15:00:00, Price: 121597.21, New Balance: $10317.64, PnL: $3.62 (0.04%), Strategy: GridSearchStrategy, Trigger: RSI_40, Indicators: RSI=50.55, BB_Lower=120695.25, KAMA=121796.62, ST_DIR=-1
+[2025-11-29 21:00:37] Bought BTCUSDT, Date: 2025-10-10 16:00:00, Price: 121684.20, Cash: $0.00, Position: 0.08479, Strategy: GridSearchStrategy, Trigger: KAMA_ST, Indicators: RSI=51.54, BB_Lower=120736.00, KAMA=121791.32, ST_DIR=-1
+[2025-11-29 21:00:37] Backtest sonu: Kalan pozisyon satıldı. Bakiye: $7669.52
+[2025-11-29 21:00:37] Simulation complete
+----------------------------------------------------------------------
+
+[2025-11-29 21:00:41] Simulation complete
+----------------------------------------------------------------------
+
+[2025-11-29 21:00:42] Bought ETHUSDT, Date: 2025-10-30 19:00:00, Price: 3686.93, Cash: $0.00, Position: 2.71228, Strategy: GridSearchStrategy, Trigger: RSI_25, Indicators: RSI=23.98, BB_Lower=3736.90, KAMA=3876.20, ST_DIR=-1
+[2025-11-29 21:00:42] Sold ETHUSDT, Date: 2025-10-31 03:00:00, Price: 3829.16, New Balance: $10385.77, PnL: $385.77 (3.86%), Strategy: GridSearchStrategy, Trigger: BB_B_0.40, Indicators: RSI=40.34, BB_Lower=3713.48, KAMA=3866.34, ST_DIR=-1
+[2025-11-29 21:00:42] Bought ETHUSDT, Date: 2025-11-04 19:00:00, Price: 3230.94, Cash: $0.00, Position: 3.21447, Strategy: GridSearchStrategy, Trigger: RSI_25, Indicators: RSI=20.23, BB_Lower=3344.81, KAMA=3539.71, ST_DIR=-1
+[2025-11-29 21:00:42] Sold ETHUSDT, Date: 2025-11-05 15:00:00, Price: 3398.36, New Balance: $10923.94, PnL: $538.17 (5.18%), Strategy: GridSearchStrategy, Trigger: BB_B_0.40, Indicators: RSI=36.33, BB_Lower=3151.76, KAMA=3447.77, ST_DIR=-1
+[2025-11-29 21:00:42] Simulation complete
+----------------------------------------------------------------------
+
+[2025-11-29 21:00:45] Bought ETHUSDT, Date: 2025-10-28 23:00:00, Price: 3979.20, Cash: $0.00, Position: 2.51307, Strategy: IchimokuCustomStrategy, Trigger: IchimokuEntry, Indicators: RSI=41.74, BB_Lower=3902.95, KAMA=4091.38, ST_DIR=-1
+[2025-11-29 21:00:45] Sold ETHUSDT, Date: 2025-10-29 19:00:00, Price: 3905.71, New Balance: $9815.31, PnL: $-184.69 (-1.85%), Strategy: IchimokuCustomStrategy, Trigger: CustomExit, Indicators: RSI=36.05, BB_Lower=3911.23, KAMA=4020.73, ST_DIR=-1
+[2025-11-29 21:00:45] Simulation complete
+----------------------------------------------------------------------
+

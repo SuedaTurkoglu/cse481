@@ -1,0 +1,10 @@
+pandas
+matplotlib
+python-binance
+pandas_ta
+scikit-learn
+python-dotenv
+uvicorn
+fastapi
+pydantic
+websockets
